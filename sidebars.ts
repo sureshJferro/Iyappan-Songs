@@ -70,7 +70,8 @@ export default {
     'SwamiSaranam/samiyappa_samiyappa',
     'SwamiSaranam/alaga',
     'SwamiSaranam/pon_unjal',
-    'SwamiSaranam/Sabarimalavasa_Gana'
+    'SwamiSaranam/Sabarimalavasa_Gana',
+    'SwamiSaranam/Vanpuli'
   ],
   tutorialSidebar1: [
     'Karupasamy/karupu_uoruvam_pondavaram',
