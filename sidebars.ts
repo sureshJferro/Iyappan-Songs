@@ -71,7 +71,14 @@ export default {
     'SwamiSaranam/alaga',
     'SwamiSaranam/pon_unjal',
     'SwamiSaranam/Sabarimalavasa_Gana',
-    'SwamiSaranam/Vanpuli'
+    'SwamiSaranam/Vanpuli',
+    'SwamiSaranam/alilladha_kattukulla',
+    'SwamiSaranam/nee_indri_valveadhu',
+    'SwamiSaranam/jaiganesha_jaiganesha',
+    'SwamiSaranam/odakarai_mannueduthu',
+    'SwamiSaranam/chinna_pullai',
+    'SwamiSaranam/unnai_devaim_enbadha'//37
+
   ],
   tutorialSidebar1: [
     'Karupasamy/karupu_uoruvam_pondavaram',
