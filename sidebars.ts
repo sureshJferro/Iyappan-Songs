@@ -81,7 +81,7 @@ export default {
     'SwamiSaranam/adi_varugudhu',//47
     'SwamiSaranam/odi_vaa_muruga',//48
     'SwamiSaranam/vararaya_vararu',//49
-
+    'SwamiSaranam/sendhura_pottu',//50
 
   ],
   tutorialSidebar1: [
